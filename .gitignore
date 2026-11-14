@@ -1,0 +1,7 @@
+# regenerable by run_pipeline.py and not needed by the dashboard
+data/processed/
+__pycache__/
+*.pyc
+.idea/
+.venv/
+venv/
