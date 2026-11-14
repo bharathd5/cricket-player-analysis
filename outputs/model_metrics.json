@@ -1,0 +1,83 @@
+{
+  "generated": "2026-11-14T23:31:00",
+  "seed": 42,
+  "replicates": 360,
+  "deliveries": 199029,
+  "matches": 842,
+  "players": 958,
+  "date_min": "2022-01-22",
+  "date_max": "2026-11-01",
+  "competitions": 138,
+  "bat_pressure_balls": 50087,
+  "bowl_pressure_balls": 52920,
+  "eligible_batters": 118,
+  "eligible_bowlers": 134,
+  "selectable_batters": 94,
+  "selectable_bowlers": 111,
+  "selection_rules": {
+    "required_season": 2026,
+    "excluded_teams": [
+      "Pakistan",
+      "Pakistan A"
+    ]
+  },
+  "resource_model": {
+    "full_innings_expected_runs": 175.61524906609063,
+    "par_totals": {
+      "A-team T20 2024": 161.0,
+      "A-team T20 2025": 153.0,
+      "IPL 2022": 169.5,
+      "IPL 2023": 180.0,
+      "IPL 2024": 185.0,
+      "IPL 2025": 196.0,
+      "IPL 2026": 199.0,
+      "T20I 2022": 169.0,
+      "T20I 2023": 164.0,
+      "T20I 2024": 164.0,
+      "T20I 2025": 167.5,
+      "T20I 2026": 180.0
+    },
+    "mean_wicket_value": 7.727333069055255
+  },
+  "win_probability": {
+    "innings_1": {
+      "auc": 0.6836418469861933,
+      "brier": 0.2248214792814421,
+      "n_balls": 103883
+    },
+    "innings_2": {
+      "auc": 0.8982341908390412,
+      "brier": 0.1299097032115756,
+      "n_balls": 95146
+    }
+  },
+  "expected_models": {
+    "bat_runs_mae_gain": 0.034363968916154564,
+    "bat_out_auc": 0.6016105855315632,
+    "bowl_wkt_auc": 0.5958236718371133
+  },
+  "extreme_low_wpa_swing": {
+    "bat": 3.382614806459654,
+    "bowl": 4.6423494082082986
+  },
+  "split_half": {
+    "bat": {
+      "rating_spearman": 0.21232639079099697,
+      "impact_rate_spearman": 0.07032786353885086,
+      "pressure_value_spearman": 0.08492106099284563,
+      "uplift_spearman": -0.04899952158177482,
+      "value_consistency_spearman": 0.07641202723194425,
+      "wpa_spearman": 0.025297733174104064,
+      "volume_spearman": 0.3230343066159102
+    },
+    "bowl": {
+      "rating_spearman": 0.13454781231686183,
+      "impact_rate_spearman": -0.12235718342931386,
+      "pressure_value_spearman": 0.11047768675419894,
+      "uplift_spearman": 0.041519220937916934,
+      "value_consistency_spearman": 0.0007475893764595434,
+      "wpa_spearman": 0.12339555356051822,
+      "volume_spearman": 0.6028106737354525
+    }
+  }
+}

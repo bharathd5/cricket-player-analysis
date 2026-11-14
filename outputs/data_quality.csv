@@ -1,0 +1,7 @@
+step,table,rows_before,rows_after,detail
+drop duplicate match ids,matches,883,883,exact match_id duplicates
+drop duplicate playing-XI rows,playing_eleven,28381,28341,same match/team/player
+drop duplicate deliveries,ball_by_ball,200999,200999,exact and key duplicates
+remove super overs,ball_by_ball,200999,200961,6 matches had super overs (innings 3/4); not regular match state
+drop deliveries without a match record,ball_by_ball,200961,200961,
+drop no-result / abandoned matches,ball_by_ball,200961,199029,41 matches without a winner: win probability and win-probability added are undefined

@@ -1,0 +1,25 @@
+definition,position,pressure_ball_rate
+consensus,Openers (1-2),0.1870241286863271
+consensus,Top order (3-4),0.2594254014998459
+consensus,Middle order (5-7),0.34245327767763967
+consensus,Lower order (8-11),0.31113041154462856
+leverage,Openers (1-2),0.31404059747223284
+leverage,Top order (3-4),0.2811697428346403
+leverage,Middle order (5-7),0.24659899440280808
+leverage,Lower order (8-11),0.15366114377338322
+resource_p1,Openers (1-2),0.18399080811949445
+resource_p1,Top order (3-4),0.24740608841557374
+resource_p1,Middle order (5-7),0.3730006640736173
+resource_p1,Lower order (8-11),0.36056921432389094
+lemmer_p2,Openers (1-2),0.12323247797778629
+lemmer_p2,Top order (3-4),0.18984350922850393
+lemmer_p2,Middle order (5-7),0.4918888151029314
+lemmer_p2,Lower order (8-11),0.4664617851416355
+rule_based,Openers (1-2),0.15656836461126006
+rule_based,Top order (3-4),0.3313529431907681
+rule_based,Middle order (5-7),0.529418461246561
+rule_based,Lower order (8-11),0.9860368786745056
+equal_weights,Openers (1-2),0.14901570279586365
+equal_weights,Top order (3-4),0.24358798753552718
+equal_weights,Middle order (5-7),0.3713689403282421
+equal_weights,Lower order (8-11),0.3623062533404596

@@ -1,0 +1,9 @@
+{
+  "rating_spearman": 0.21232639079099697,
+  "impact_rate_spearman": 0.07032786353885086,
+  "pressure_value_spearman": 0.08492106099284563,
+  "uplift_spearman": -0.04899952158177482,
+  "value_consistency_spearman": 0.07641202723194425,
+  "wpa_spearman": 0.025297733174104064,
+  "volume_spearman": 0.3230343066159102
+}
